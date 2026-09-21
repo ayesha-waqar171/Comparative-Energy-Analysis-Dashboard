@@ -17,5 +17,5 @@ Dashboard Preview:
 Files in this Repo:
 This repository includes the Power BI dashboard file, a preview image of the dashboard, and the original project brief describing the requirements.
 
-How to Use
+How to Use:
 Clone or download this repository, then open the Power BI file in Power BI Desktop to explore the interactive dashboard.
